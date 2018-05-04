@@ -1,2 +1,0 @@
-# MAKIT
-Just Make It
